@@ -15,7 +15,9 @@ TP-2/
 │
 ├── frontend/
 │   ├── src/
+│   │   └── App.css
 │   │   └── App.jsx
+│   │   └── main.jsx
 │   ├── index.html
 │   ├── vite.config.js
 │   └── package.json
@@ -63,7 +65,7 @@ npm run dev
 
 ---
 
-## 🔄 ¿Cómo funciona?
+## ¿Cómo funciona?
 
 1. El usuario ingresa su nombre en el campo de texto.
 2. Al hacer clic en el botón:
